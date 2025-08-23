@@ -4,6 +4,6 @@ dockerfilePath = "./Dockerfile"
 watchPatterns = [
     "requirements.txt",
     "src/**",
-    "railway.toml"
-    "Dockerfile",
+    "railway.toml",
+    "Dockerfile", 
 ]
